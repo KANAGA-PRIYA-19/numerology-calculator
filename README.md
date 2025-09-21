@@ -41,12 +41,16 @@ Open your browser and access:
 
 For DOB Calculator →
 http://localhost/numerology-calculator/NumerologyDOB.php
+
 For Name Calculator →
 http://localhost/numerology-calculator/NumerologyName.php
+
 📌 Note
 This project is meant for local execution only.
 If you want to make it available online, you’ll need a PHP-supported hosting service (e.g., 000webhost, InfinityFree, etc.).
 
+
 👨‍💻 Author
 Kanaga Priya S
+
 GitHub: @KANAGA-PRIYA-19
