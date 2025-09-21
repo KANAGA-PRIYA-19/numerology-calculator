@@ -32,10 +32,13 @@ This project is designed to run locally using **XAMPP** or any PHP-supported ser
 ## ⚡ How to Run the Project
 1. Install [XAMPP](https://www.apachefriends.org/index.html).  
 2. Clone this repository or download the source code.
-    git clone https://github.com/KANAGA-PRIYA-19/numerology-calculator.git
+   ```bash
+   git clone https://github.com/KANAGA-PRIYA-19/numerology-calculator.git
+   
 4. Move the project folder into the htdocs directory of XAMPP.
+   ```bash
     C:/xampp/htdocs/numerology-calculator
-5. Start Apache from the XAMPP Control Panel.
+6. Start Apache from the XAMPP Control Panel.
 
 Open your browser and access:
 
@@ -45,12 +48,14 @@ http://localhost/numerology-calculator/NumerologyDOB.php
 For Name Calculator →
 http://localhost/numerology-calculator/NumerologyName.php
 
-📌 Note
+## 📌 Note
 This project is meant for local execution only.
 If you want to make it available online, you’ll need a PHP-supported hosting service (e.g., 000webhost, InfinityFree, etc.).
 
 
-👨‍💻 Author
-Kanaga Priya S
+## 👨‍💻 Author
 
-GitHub: @KANAGA-PRIYA-19
+KANAGA PRIYA S
+Email: [kanagask0210@gmail.com](mailto:kanagask0210@gmail.com)
+GitHub: [@KANAGA-PRIYA-19](https://github.com/KANAGA_PRIYA_19)
+
